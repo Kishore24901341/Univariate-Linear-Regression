@@ -15,6 +15,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 6.	Obtain the straight line equation Y=mX+b and plot the scatterplot.
 ## Program
 '''
+
 Program to QR decomposition using the Gram-Schmidt method
 Developed by: Kishore.V
 RegisterNumber: 24901341
@@ -40,13 +41,11 @@ print(ypred)
 plt.scatter(x,y,color='Red')
 plt.plot(x,ypred,color='Blue')
 plt.show()
+
+
 '''
 ## Output
 ![image](https://github.com/user-attachments/assets/92c2e22b-fb28-4851-b5e9-d7382da78ac3)
-
-</br>
-</br>
-</br>
 ![image](https://github.com/user-attachments/assets/58696624-dc06-4cb6-95ba-c32bad45907e)
 
 </br>
